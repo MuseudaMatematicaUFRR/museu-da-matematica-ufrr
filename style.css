@@ -1609,12 +1609,9 @@ a {
 /* ============================================================
    REDES SOCIAIS
 ============================================================ */
-
 .redes-sociais {
-    background: #263f7c;
+    background: var(--azul-800);
     color: white;
-
-    padding: 3.5rem 0;
 }
 
 .redes-conteudo h2 {
